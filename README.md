@@ -3,16 +3,20 @@
 
 ## I'm a Husband, Father, Developer, and Lifelong Learner!!
 
-- 🌱 Nowadays, I’m currently learning and writing a lot. 🤣
-- 🌱 I’m currently learning backend development (Node.js | MongoDB | Django)
+- 🚥 Nowadays, I’m learning and writing a lot. 🆘
+- 🌱 I’m currently improving skills on full-stack development (Node.js | MongoDB | Django)
 - 👯 I’m looking to collaborate with other developers.
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - 👨‍💻 All of my projects are available at [https://dastugo.com/](https://dastugo.com/)
-- 📝 I regularly write articles on [https://cogut.medium.com/](https://cogut.medium.com/)
+- 📝 I write articles on [https://cogut.medium.com/](https://cogut.medium.com/)
 - 💬 Ask me about **C#, ASP.NET**
 - 📫 How to reach me **cetinogut@gmail.com**
 - 📄 Know about my experiences [https://cetinogut.dastugo.com/](https://cetinogut.dastugo.com/)
-- ⚡ Fun fact: I love to ride and walk
+- 💝 Interests: Robotics, AI, Blockchain
+- ⚡ Fun fact: I love to ride 🚲 and 🚶
+
+
+<span class="mdi-car-lifted-pickup"></span>
 
 ---
 ###  Connect with me:
@@ -44,6 +48,8 @@
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> 
 <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
+<a href="https://slack.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/slack/slack-original-wordmark.svg" alt="slack" width="40" height="40"/> </a> 
+<a href="https://www.atlassian.com/software/jira/free" target="_blank"> <img src="https://cdnjs.cloudflare.com/ajax/libs/line-awesome/1.3.0/svg/jira.svg" alt="jira" width="40" height="40"/> </a> 
 
 <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> 
@@ -62,7 +68,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=cetinogut&count_private=true&show_icons=true&theme=ayu-mirage" alt="my github stats" width="49%"/>&nbsp;
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=cetinogut&theme=ayu-mirage" alt="my commit status" width="49%" /> </p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cetinogut&count_private=true&show_icons=true&theme=ayu-mirage&layout=compact" alt="languages" width="50%"></p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=@cetinogut" alt="wakatime-stats" width="50%"></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=@cetinogut&theme=ayu-mirage" alt="wakatime-stats" width="50%"></p>
 
 ---
 
