@@ -8,7 +8,7 @@
 - 🌱 I’m currently improving skills on full-stack development (Node.js | MongoDB | Django)
 - 👯 I’m looking to collaborate with other developers.
 - 🥅 2021 Goals: Contribute more to Open Source projects
-- 👨‍💻 All of my projects are available at [https://dastugo.com/](https://dastugo.com/)
+- 👨‍💻 All of my projects are available at. (to be updated)[https://dastugo.com/](https://dastugo.com/)
 - 📝 I write articles on [https://cogut.medium.com/](https://cogut.medium.com/)
 - 💬 Ask me about **C#, ASP.NET**
 - 📫 How to reach me **cetinogut@gmail.com**
