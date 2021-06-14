@@ -11,8 +11,8 @@
 - 👨‍💻 All of my projects are available at [https://dastugo.com/](https://dastugo.com/)
 - 📝 I write articles on [https://cogut.medium.com/](https://cogut.medium.com/)
 - 💬 Ask me about **C#, ASP.NET**
-- 📫 How to reach me **cetinogut@gmail.com**
-- 📄 Know about my experiences [https://cetinogut.dastugo.com/](https://cetinogut.dastugo.com/)
+- 📫 How to reach me **cetinogut.gm@gmail.com**
+- 📄 Know about my experiences [https://cetinogut.netlify.app/](https://cetinogut.netlify.app/)
 - 💝 Interests: Robotics, AI, Blockchain
 - ⚡ Fun fact: I love to ride 🚲 and 🚶
 
@@ -108,3 +108,5 @@
 [![](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://cogut.medium.com/)
 [![](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white")](https://youtube.com/)
 [![](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/cogut_tw)
+
+[website]: https://dastugo.com
