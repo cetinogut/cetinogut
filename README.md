@@ -8,11 +8,11 @@
 - 🌱 I’m currently improving skills on full-stack development (Node.js | MongoDB | Django)
 - 👯 I’m looking to collaborate with other developers.
 - 🥅 2021 Goals: Contribute more to Open Source projects
-- 👨‍💻 All of my projects are available at. (to be updated)[https://dastugo.com/](https://dastugo.com/)
-- 📝 I write articles on [https://cogut.medium.com/](https://cogut.medium.com/)
-- 💬 Ask me about **C#, ASP.NET**
+- 👨‍💻 All of my projects are available at. (to be updated)[https://dastugo.com/](https://dastugo.com/){:target="\_blank"}
+- 📝 I write articles on [https://cogut.medium.com/](https://cogut.medium.com/){:target="\_blank"}
+- 💬 Ask me about **C#, ASP.NET, .NET Core, WINS and MERN stacks **
 - 📫 How to reach me **cetinogut.gm@gmail.com**
-- 📄 Know about my experiences [https://cetinogut.netlify.app/](https://cetinogut.netlify.app/)
+- 📄 Know about my experiences [https://cetinogut.netlify.app/](https://cetinogut.netlify.app/){:target="\_blank"}
 - 💝 Interests: Robotics, AI, Blockchain
 - ⚡ Fun fact: I love to ride 🚲 and 🚶
 
@@ -22,11 +22,11 @@
 ---
 ###  Connect with me:
 <p align="left">
-  <a href="https://linkedin.com/in/cetinogut" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cetinogut" height="30" width="40" /></a>
-  <a href="https://twitter.com/cogut_tw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cogut_tw" height="30" width="40" /></a>
-  <a href="https://medium.com/@cogut" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@cogut" height="30" width="40" /></a>
-  <a href="https://codepen.io/cetinogut" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="cetinogut" height="30" width="40" /></a>
-   <a href="https://dastugo.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="cetinogut" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/cetinogut" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cetinogut" height="30" width="40" /></a>
+  <a href="https://twitter.com/cogut_tw" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cogut_tw" height="30" width="40" /></a>
+  <a href="https://medium.com/@cogut" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@cogut" height="30" width="40" /></a>
+  <a href="https://codepen.io/cetinogut" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="cetinogut" height="30" width="40" /></a>
+   <a href="https://dastugo.com" target="_blank"><img align="center" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="cetinogut" height="30" width="40" /></a>
 </p>
 
 ---
@@ -76,37 +76,37 @@
 ### 📺 My Favorite YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Web Development In 2021 - A Practical Guide](https://www.youtube.com/watch?v=VfGW0Qiy2I0)
-- [Who Will Win? No-Code, Low-Code, AI. Should You Be Worried?](https://www.youtube.com/watch?v=0ldB86iVu9w)
-- [How To Manage Multiple APIs with RapidAPI (2021)](https://www.youtube.com/watch?v=NFToND6x_nI)
-- [How Core Web Vitals Will Affect Google Rankings in 2021 | Interview :: Lee Robinson](https://www.youtube.com/watch?v=-lcDZDfjekc)
-- [Build Fullstack Apps in Record Time with Blitz.js | Interview :: Brandon Bayer (2021)](https://www.youtube.com/watch?v=S9qqImLjJFY)
-- [Create an Application Backend in Clicks with the Amplify Admin UI | Interview :: Ali Spittel (2021)](https://www.youtube.com/watch?v=SvPJMwbR8ac)
+- [Web Development In 2021 - A Practical Guide](https://www.youtube.com/watch?v=VfGW0Qiy2I0){:target="\_blank"}
+- [Who Will Win? No-Code, Low-Code, AI. Should You Be Worried?](https://www.youtube.com/watch?v=0ldB86iVu9w){:target="\_blank"}
+- [How To Manage Multiple APIs with RapidAPI (2021)](https://www.youtube.com/watch?v=NFToND6x_nI){:target="\_blank"}
+- [How Core Web Vitals Will Affect Google Rankings in 2021 | Interview :: Lee Robinson](https://www.youtube.com/watch?v=-lcDZDfjekc){:target="\_blank"}
+- [Build Fullstack Apps in Record Time with Blitz.js | Interview :: Brandon Bayer (2021)](https://www.youtube.com/watch?v=S9qqImLjJFY){:target="\_blank"}
+- [Create an Application Backend in Clicks with the Amplify Admin UI | Interview :: Ali Spittel (2021)](https://www.youtube.com/watch?v=SvPJMwbR8ac){:target="\_blank"}
 <!-- YOUTUBE:END -->
 
-➡️ [more videos...](https://youtube.com/codestackr)
+➡️ [more videos...](https://youtube.com/codestackr){:target="\_blank"}
 
 ---
 
 ### 📕 My Favorite Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How To Pass Application Tracking Systems (ATS) & Get Interviews - Resume Tips for Software Developer](https://dev.to/codestackr/how-to-pass-application-tracking-systems-ats-get-interviews-resume-tips-for-software-developer-4bmo)
-- [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
-- [Notion + YouTube - A Powerful Combination for Productivity](https://dev.to/codestackr/notion-youtube-a-powerful-combination-for-productivity-1def)
-- [Regular Expressions (RegEx) Crash Course](https://dev.to/codestackr/regular-expressions-regex-crash-course-248n)
-- [Emmet Part 2 - Advanced](https://dev.to/codestackr/emmet-part-2-advanced-4c65)
+- [How To Pass Application Tracking Systems (ATS) & Get Interviews - Resume Tips for Software Developer](https://dev.to/codestackr/how-to-pass-application-tracking-systems-ats-get-interviews-resume-tips-for-software-developer-4bmo){:target="\_blank"}
+- [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629){:target="\_blank"}
+- [Notion + YouTube - A Powerful Combination for Productivity](https://dev.to/codestackr/notion-youtube-a-powerful-combination-for-productivity-1def){:target="\_blank"}
+- [Regular Expressions (RegEx) Crash Course](https://dev.to/codestackr/regular-expressions-regex-crash-course-248n){:target="\_blank"}
+- [Emmet Part 2 - Advanced](https://dev.to/codestackr/emmet-part-2-advanced-4c65){:target="\_blank"}
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://codestackr.com)
+➡️ [more blog posts...](https://codestackr.com){:target="\_blank"}
 
 ---
 
 ## 👨👩 Social
 
-[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cetinogut)
-[![](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://cogut.medium.com/)
-[![](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white")](https://youtube.com/)
-[![](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/cogut_tw)
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cetinogut){:target="\_blank"}
+[![](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://cogut.medium.com/){:target="\_blank"}
+[![](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white")](https://youtube.com/){:target="\_blank"}
+[![](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/cogut_tw){:target="\_blank"}
 
-[website]: https://dastugo.com
+[website]: https://dastugo.com {:target="\_blank"}
