@@ -1,19 +1,19 @@
 ### Hi there, I'm Cetin Ogut [website] 👋
 
 
-## I'm a Husband, Father, Developer, and Lifelong Learner!!
+## I'm a Full Stack Developer, Computer Science Enthusiast and Lifelong Learner!!
 
 - 🚥 Nowadays, I’m learning and writing a lot. 🆘
 - ⭐ Quote: "Once you stop learning, you start dying"-Einstein. 
-- 🌱 I’m currently improving skills on full-stack development (Node.js | MongoDB | Django)
+- 🌱 I’m currently improving skills on full-stack development ( WINS and MERN stacks + Node.js | MongoDB | Django)
 - 👯 I’m looking to collaborate with other developers.
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - 👨‍💻 All of my projects are available at. (to be updated)[https://dastugo.com/](https://dastugo.com/)
-- 📝 I write articles on [https://cogut.medium.com/](https://cogut.medium.com/){target="_blank"}
+- 📝 I write articles on [https://cogut.medium.com/](https://cogut.medium.com/)
 - 💬 Ask me about **C#, ASP.NET, .NET Core, WINS and MERN stacks **
 - 📫 How to reach me **cetinogut.gm@gmail.com**
 - 📄 Know about my experiences [https://cetinogut.netlify.app/](https://cetinogut.netlify.app/)
-- 💝 Interests: Robotics, AI, Blockchain
+- 💝 Interests: ML, Robotics, AI, Blockchain
 - ⚡ Fun fact: I love to ride 🚲 and 🚶
 
 
