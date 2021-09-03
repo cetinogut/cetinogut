@@ -9,10 +9,11 @@
 - 👯 I’m looking to collaborate with other developers.
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - 👨‍💻 All of my projects are available at. (to be updated)[https://dastugo.com/](https://dastugo.com/)
-- 📝 I write articles on [https://cogut.medium.com/](https://cogut.medium.com/)
+- 📝 I write articles on [Medium](https://cogut.medium.com/)
 - 💬 Ask me about **C#, ASP.NET, .NET Core, WINS and MERN stacks **
 - 📫 How to reach me **cetinogut.gm@gmail.com**
-- 📄 Know about my experiences [https://cetinogut.netlify.app/](https://cetinogut.netlify.app/)
+- 📄 Know about my proffessional experiences [visit web-site](https://cetinogut.netlify.app/)
+- 📄 Know about my academic background experiences [visit web-site](https://cetinogut-phd-candidate.netlify.app/)
 - 💝 Interests: ML, Robotics, AI, Blockchain
 - ⚡ Fun fact: I love to ride 🚲 and 🚶
 
