@@ -14,7 +14,7 @@
 - 📫 How to reach me **cetinogut.gm@gmail.com**
 - 📄 Know about my proffessional experiences [visit web-site](https://cetinogut.netlify.app/)
 - 📄 Know about my academic background experiences [visit web-site](https://cetinogut-phd-candidate.netlify.app/)
-- 💝 Interests: ML, Robotics, AI, Blockchain
+- 💝 Interests: Cyber security, ML, Robotics, AI, Blockchain
 - ⚡ Fun fact: I love to ride 🚲 and 🚶
 
 
