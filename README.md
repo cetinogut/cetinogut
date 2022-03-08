@@ -7,7 +7,7 @@
 - ⭐ Quote: "Once you stop learning, you start dying"-Einstein. 
 - 🌱 I’m currently improving skills on full-stack development ( WINS and MERN stacks + Node.js | MongoDB | Django Web Framework | RestAPI)
 - 👯 I’m looking to collaborate with other developers.
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 - 👨‍💻 All of my projects are available at. (to be updated)[https://dastugo.com/](https://dastugo.com/)
 - 📝 I write articles on [Medium](https://cogut.medium.com/)
 - 💬 Ask me about **C#, ASP.NET, .NET Core, WINS and MERN stacks **
