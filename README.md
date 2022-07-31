@@ -8,11 +8,12 @@
 - 🌱 I’m a skilled full-stack developer and adding new skills with tech. updates. ( .Net / Django  backend | React / HTML-CSS-JavaScript-Bootstrap frontend | RestAPI / WebAPI)
 - 👯 I’m looking to collaborate with other developers.
 - 🥅 2022 Goals: Contribute more to Open Source projects
-- 👨‍💻 Some of my projects are available at. (to be updated)[https://dastugo.com/](https://dastugo.com/)
+- 👨‍💻 You can visit my freelance web-development site @ https://dastugo.com.tr/](https://dastugo.com.tr/)
 - 📝 I write articles on [Medium](https://cogut.medium.com/)
 - 💬 Ask me about **C#, Python, .NET Core, Django, React **
 - 📫 How to reach me **cetinogut.gm@gmail.com**
-- 📄 Know about my proffessional experiences [visit web-site](https://cetinogut.netlify.app/)
+- 📄 Know about some of my intial web development experiences [visit web-site](https://cogut-portfolio.netlify.app/)
+- 📄 Know about some of my recent experiences [visit web-site](https://cetinogut.netlify.app/)
 - 📄 Know about my academic background experiences [visit web-site](https://cetinogut-phd-candidate.netlify.app/)
 - 💝 Interests: Cyber security, ML, Robotics, AI, Blockchain
 - ⚡ Fun fact: I love to ride 🚲 and 🚶
