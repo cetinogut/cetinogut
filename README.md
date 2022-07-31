@@ -1,4 +1,4 @@
-### Hi there, I'm Cetin Ogut [website] 👋
+### Hi there, I'm Cetin Ogut [website-dastugo-tr] 👋
 
 
 ## I'm a Full Stack Developer, Computer Science Enthusiast and Lifelong Learner!!
@@ -111,4 +111,4 @@
 [![](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white")](https://youtube.com/)
 [![](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/cogut_tw)
 
-[website]: https://dastugo.com
+[website-dastugo-tr]: https://dastugo.com.tr
