@@ -1,4 +1,4 @@
-### Hi there, I'm Cetin Ogut [website-dastugo-tr] 👋
+### Hi there, I'm Cetin Ogut 👋
 
 
 ## I'm a Full Stack Developer, Computer Science Enthusiast and Lifelong Learner!!
@@ -8,7 +8,7 @@
 - 🌱 I’m a skilled full-stack developer and adding new skills with tech. updates. ( .Net / Django  backend | React / HTML-CSS-JavaScript-Bootstrap frontend | RestAPI / WebAPI)
 - 👯 I’m looking to collaborate with other developers.
 - 🥅 2022 Goals: Contribute more to Open Source projects
-- 👨‍💻 You can visit my freelance web-development site @ https://dastugo.com.tr/](https://dastugo.com.tr/)
+- 👨‍💻 You can visit my freelance web-development site @ [dastugo]
 - 📝 I write articles on [Medium](https://cogut.medium.com/)
 - 💬 Ask me about **C#, Python, .NET Core, Django, React **
 - 📫 How to reach me **cetinogut.gm@gmail.com**
@@ -111,4 +111,4 @@
 [![](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white")](https://youtube.com/)
 [![](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/cogut_tw)
 
-[website-dastugo-tr]: https://dastugo.com.tr
+[dastugo]: https://dastugo.com.tr
