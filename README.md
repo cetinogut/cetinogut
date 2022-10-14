@@ -111,4 +111,4 @@
 [![](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white")](https://youtube.com/)
 [![](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/cogut_tw)
 
-[dastugo]: https://dastugo.com.tr
+[dastugo]: https://dastugo.com
