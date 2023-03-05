@@ -5,12 +5,12 @@
 
 - 🚥 Nowadays, I’m learning and writing a lot. 🆘
 - ⭐ Quote: "Once you stop learning, you start dying"-Einstein. 
-- 🌱 I’m a skilled full-stack developer and adding new skills with tech. updates. ( .Net / Django  backend | React / HTML-CSS-JavaScript-Bootstrap frontend | RestAPI / WebAPI)
+- 🌱 I’m a skilled full-stack developer and adding new skills with tech. updates. ( .Net  backend | React / HTML-CSS-JavaScript-Bootstrap frontend | RestAPI / WebAPI)
 - 👯 I’m looking to collaborate with other developers.
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🥅 2023 Goals: Contribute more to Open Source projects
 - 👨‍💻 You can visit my freelance web-development site @ [dastugo]
 - 📝 I write articles on [Medium](https://cogut.medium.com/)
-- 💬 Ask me about **C#, Python, .NET Core, Django, React **
+- 💬 Ask me about **C#, .NET Core, Javascript, React **
 - 📫 How to reach me **cetinogut.gm@gmail.com**
 - 📄 Know about some of my intial web development experiences [visit web-site](https://cogut-portfolio.netlify.app/)
 - 📄 Know about some of my recent experiences [visit web-site](https://cetinogut.netlify.app/)
