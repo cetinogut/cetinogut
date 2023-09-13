@@ -9,7 +9,9 @@
 - 👯 I’m looking to collaborate with other developers.
 - 🥅 2023 Goals: Contribute more to Open Source projects
 - 👨‍💻 You can visit my freelance web-development site @ [dastugo]
+<!---
 - 📝 I write articles on [Medium](https://cogut.medium.com/)
+--->
 - 💬 Ask me about **C#, .NET Core, Javascript, React **
 - 📫 How to reach me **cetinogut.gm@gmail.com**
 - 📄 Know about some of my intial web development experiences [visit web-site](https://cogut-portfolio.netlify.app/)
