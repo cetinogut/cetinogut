@@ -7,7 +7,7 @@
 - ⭐ Quote: "Once you stop learning, you start dying"-Einstein. 
 - 🌱 I’m a skilled full-stack developer and adding new skills with tech. updates. ( .Net  backend | React / HTML-CSS-JavaScript-Bootstrap frontend | RestAPI / WebAPI)
 - 👯 I’m looking to collaborate with other developers.
-- 🥅 2023 Goals: Contribute more to Open Source projects
+- 🥅 2024 Goals: Contribute more to Open Source projects
 - 👨‍💻 You can visit my freelance web-development site @ [dastugo]
 <!---
 - 📝 I write articles on [Medium](https://cogut.medium.com/)
